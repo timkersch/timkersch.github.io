@@ -18,3 +18,12 @@ i{
 .text-muted{
     color: #FFFFFF;
 }
+
+.col-lg-12 h4{
+    padding-left: 15em;
+    padding-right: 15em;
+}
+
+.list-inline i:hover{
+    color: #000000;
+}
